@@ -9,7 +9,6 @@ Before you begin, ensure you have the following installed:
 - Python (3.x)
 - spacy
 - en_core_web_sm
-- BeautifulSoup (bs4)
 
 Install the required packages using:
 
@@ -23,17 +22,17 @@ Install the required packages using:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/image-scraping-project.git
+git clone https://github.com/sneha-royal/Text-SummarizationUsingNLP.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd image-scraping-project
+cd Text-SummarizationUsingNLP
 ```
 
-3. Run the Flask application:
+3. Run the file:
 
-```bash
-python app.py
+```jupyter notebook
+nlp_text_summarizer_using_spacy.ipynb
 ```
